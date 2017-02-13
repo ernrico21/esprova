@@ -1,0 +1,29 @@
+{
+  "name": "5_lab",
+  "version": "1.0.0",
+  "description": "esercizion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ernrico21",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ernrico21/esprova.git"
+  },
+  "keywords": [
+    "prova",
+    "es"
+  ],
+  "bugs": {
+    "url": "https://github.com/ernrico21/esprova/issues"
+  },
+  "homepage": "https://github.com/ernrico21/esprova#readme"
+}
